@@ -4,4 +4,4 @@
 
 ## Contents
 - Day1 : Chapter1 ~ Chapter3
-- Day2 : ~ Chapter5(Logistic & Softmax Regression)
+- Day2 : ~ Chapter5 (Logistic & Softmax Regression)
